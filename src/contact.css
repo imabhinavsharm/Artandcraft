@@ -1,0 +1,77 @@
+.img-top{
+    width: 100%;
+    height: 80vh;
+    background: url('./images/meeting-1020145_1920.jpg');
+    background-size: cover;
+    background-position: center;
+
+}
+
+.main{
+    width: 100%;
+    height: auto;
+    /* background: cornflowerblue; */
+}
+.main_inner{
+    width: 90%;
+    height: auto;
+    margin: 0 auto;
+    /* background-color:chartreuse; */
+    display: flex;
+}
+.part1,.part2{
+    /* background-color: coral; */
+    width: 50%;
+ height: auto;
+ padding: 2rem;
+}
+
+.part2_content{
+    margin-top: 2rem;
+    width: 100%;
+    border-radius: 10px;
+    background-color: #42d113;
+    color: #fff;
+    padding: 2rem;
+}
+.headingcontact{
+    text-align: center;
+    color: #42d113;
+}
+label{
+    color: #42d113;
+}
+form{
+    margin-top: 2rem;
+}
+.message{
+    width: 100%;
+    height: 90vh;
+    background: url('./images/black-1072366_1920.jpg');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}
+.message_thanks{
+    width: 40%;
+    margin: 0 auto;
+    height: auto;
+}
+@media only screen and (max-width: 600px) {
+.message_thanks{
+    width: 70%;
+}
+.main_inner{
+    flex-direction: column;
+}
+.part2{
+    order: 1;
+    width: 100%;
+   
+}
+.part1{
+    order: 2;
+    width: 100%;
+}
+}

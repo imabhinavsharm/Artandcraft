@@ -1,0 +1,249 @@
+.heading{
+    width: 100%;
+    height: 95vh;
+  background: url('../images/marble-countertop-96084_1920.jpg');
+background-size: cover;
+}
+.content{
+    width: 90%;
+    height: auto;
+    margin: 0 auto;
+    padding-top: 1rem;
+}
+.mainContent{
+    padding: 1rem;
+    width: 70%;
+    background-color:#fff;
+}
+.mainContent h1{
+font-size:4 rem;
+color: #42d113;
+}
+.mainContent p{
+    font-size: 18px;
+}
+.mainContent span{
+    color: #42d113;
+}
+.part_2{
+    width: 100%;
+    height: auto;
+}
+.part_2_content{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+
+}
+.part_2Main{
+    display: flex;
+}
+.part2left{
+    width: 50%;
+    height:500px;
+  background: url('../images/IMG-5894.JPG');
+  background-size: cover;
+ 
+}
+.part2right{
+    width: 50%;
+    height: auto;
+    padding: 2rem;
+}
+.part2right p{
+font-size: 18px;
+}
+.part2right h1{
+    color: #42d113;
+}
+.kitchenware_About{
+    width: 100%;
+    height: auto;
+    /* background-color: greenyellow; */
+    margin-bottom: 2rem;
+}
+.headingAboutKitchen{
+    width: 60%;
+    height: auto;
+    background-color: #fff;
+    padding: 2rem;
+}
+.headingAboutKitchen h1{
+    color: #42d113;
+}
+.kitchenware_main{
+    width: 100%;
+    height:auto ;
+    /* background-color: hotpink; */
+    display: flex;
+}
+.kitchen_main_left{
+    width: 60%;
+    height: 700px;
+    background: url('../images/image11.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.bathroom_main_left{
+    width: 60%;
+    height: 700px;
+    background: url('../images/pexels-karolina-grabowska-4207891.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.leftcontent{
+    width: 40%;
+    height: auto;
+    background-color: #fff;
+    padding: 1rem 2rem;
+    margin:30% 2rem;
+}
+.leftcontent h1{
+    color: #42d113;
+}
+.gotobutton{
+    margin: 2rem 0;
+}
+
+.links{
+    min-height: 4rem;
+    margin: 2rem;
+    padding: 0.5rem;
+    font-size: 25px;
+    width: 32%;
+    border: 3px solid #42d113;
+    color:#42d113;
+}
+.links:hover{
+    background-color: #42d113;
+    color: #fff;
+}
+
+
+.kitchen_main_right{
+    margin-left: 5%;
+    width: 30%;
+    height: 700px;
+    /* background-color:cyan; */
+}
+.right1{
+    width: 100%;
+    height: 345px;
+     background: url('../images/IMG-5827.JPG');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.right2{
+    width: 100%;
+    height: 345px;
+    margin-top: 10px;
+     background: url('../images/IMG-5924.JPG');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.right3{
+    width: 100%;
+    height: 345px;
+     background: url('../images/IMG-5926.JPG');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.right4{
+    width: 100%;
+    height: 345px;
+    margin-top: 10px;
+     background: url('../images/IMG-5925.JPG');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.leftAboutdecor{
+  background: url('../images/IMG-5962.JPG');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+   width: 60%;
+   min-height: 600px;
+}
+.rightAboutdecor{
+    padding: 2rem 3rem;
+    background-color:#fff;
+    width: 40%;
+    min-height: 400px;
+  margin-top: 6rem;
+  margin-left: -10rem;
+  margin-bottom: 4rem;
+}
+.parent_three_decor{
+    width: 95%;
+    margin: 1rem auto;
+    height: auto;
+    display: flex;
+   justify-content: space-around;
+}
+.decor1{
+    width: 32%;
+    height: 400px;
+    background:url('../images/IMG-5898.JPG');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.decor2{
+    width: 32%;
+    height: 400px;
+    background:url('../images/IMG-5892.JPG');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.decor3{
+    width: 32%;
+    height: 400px;
+    background:url('../images/IMG-5991.JPG');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+@media(max-width:600px){
+    .part_2Main,.kitchenware_main,.parent_three_decor{
+        flex-direction: column;
+    }
+.headingAboutKitchen,
+    .kitchen_main_left,
+.parent_three_decor,
+    .part2left,.part2right,.kitchen_main_right,.bathroom_main_left,.decor1,.decor2,.decor3{
+width: 100%;
+}
+.kitchen_main_right{
+    margin: 0;
+}
+.leftcontent{
+    width: 80%;
+}
+.right1,.right3,.decor1,.decor2,.decor3{
+    margin-top: 10px;
+}
+.links{
+    width: 100%;
+    min-height: 4rem;
+    font-size: 12px;
+    padding: 0.5rem;
+   
+}
+.leftAboutdecor{
+    width:100%;
+}
+
+.rightAboutdecor{
+    width:100%;
+ padding: 1rem;
+ margin: 1rem 0;
+}
+
+}

@@ -1,0 +1,16 @@
+.footer-form-toggle{
+    position: fixed;;
+    right: 30px;
+    bottom: 20px;
+    width: 60px;
+    height: 60px;
+    background-color: green;
+    border-radius:50%;
+    text-align:center;
+    cursor: pointer;
+}
+.footer-form-toggle .fa{
+    color:white;
+    font-size: 35px;
+    line-height: 55px;
+}
