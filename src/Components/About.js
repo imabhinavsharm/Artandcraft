@@ -47,7 +47,7 @@ const About = () => {
                         </div>
                     </div>
                     <div className="kitchen_main_right">
-<div className="right1"></div>
+<div className="right1"></div> 
 <div className="right2"></div>
                     </div>
             </div>
