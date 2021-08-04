@@ -15,8 +15,10 @@ const Bathroom = () => {
         <div className="kitchen_ware">
 
         <div className="cards_kitchenware">
-<h1>Bathroom ware</h1>
-<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quasi neque nulla debitis repudiandae voluptatem, at est natus unde expedita. In omnis obcaecati accusamus error aperiam?</p>
+<h1 className="heading_items">Bathroom ware</h1>
+<p className="para_items">
+Handcrafted to exhibit the beautiful veining of the natural white marble, these Frost Marble Accessories elevate the bath to spa status. Made of 100% natural marble. Different color tones and texture makes the product unique. Imported.
+</p>
         <div className="container-fluid nav-bg">
                 <div className="row">
                     <div className="col-12 mx-auto">

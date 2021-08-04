@@ -40,9 +40,9 @@ const About = () => {
                     <div className="kitchenware_main">
                     <div className="kitchen_main_left">
                         <div className="leftcontent">
-                            <h1>Lorem, ipsum.</h1>
-                            <p>
-                                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maxime amet, nobis expedita eveniet consequuntur iste. Praesentium sint culpa cupiditate unde optio excepturi, voluptas numquam voluptate dignissimos labore incidunt, quod placeat maiores et, officiis quaerat deleniti.
+                            <h2 style={{color:"#42d113"}}>Kitchen Products</h2>
+                            <p style={{fontSize:"20px"}}>
+                           From Coasters to Wine holders and Cake stands Art & Craft provides you a high quality products with lot of variety other than that  you can customize products as per your choice in terms of designs and type of marble.
                             </p>
                         </div>
                     </div>
@@ -66,8 +66,8 @@ const About = () => {
                     <div className="bathroom_main_left">
                         <div className="leftcontent">
                             <h1>hello</h1>
-                            <p>
-                                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maxime amet, nobis expedita eveniet consequuntur iste. Praesentium sint culpa cupiditate unde optio excepturi, voluptas numquam voluptate dignissimos labore incidunt, quod placeat maiores et, officiis quaerat deleniti.
+                            <p style={{fontSize:"20px"}}>
+                            This marble interior is bathroom goals!. from Soap dishes to bathroom sets Art & Craft gives your bathroom a new luxurious look with their product these beautiful products are made up of marbles like granite with diffrent colors and textures .
                             </p>
                         </div>
                     </div>
@@ -93,8 +93,8 @@ const About = () => {
 
                         </div>
                         <div className="rightAboutdecor">
-<h1 style={{color:"#42d113"}}>Lorem, ipsum dolor.</h1>
-<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Obcaecati, molestias. Et laudantium dignissimos minus distinctio iure? Autem cum quis, vitae fugiat exercitationem totam aliquam illum iure eveniet aperiam, sequi reprehenderit sit repellat velit blanditiis alias at ipsa. Voluptatibus quae qui deserunt architecto consequuntur, voluptatem voluptatum.</p>
+<h1 style={{color:"#42d113"}}>Marble Lamps</h1>
+<p style={{fontSize:"20px"}}>DelightFULL | Unique Lamps - Focused on the best combination of high quality design and high quality craftsmanship. Our pieces not only illuminate interiors they also add strong design presence to a space with their unique forms.</p>
                         </div>
                     </div>
                   <div className="parent_three_decor">

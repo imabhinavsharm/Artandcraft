@@ -41,3 +41,10 @@
     height: auto;
     margin: 0 auto;
 }
+.heading_items{
+    color:#42d113;
+}
+.para_items{
+    font-size: 20px;
+    width: 60%;
+}

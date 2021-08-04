@@ -16,8 +16,8 @@ const Kitchen = () => {
         <div className="kitchen_ware">
 
         <div className="cards_kitchenware">
-<h1>Coasters</h1>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, libero. Ducimus consequuntur, consequatur possimus eum architecto quis, expedita et minima at a eligendi facilis! Laborum cupiditate ratione omnis laboriosam consequatur.
+<h1 className="heading_items">Coasters</h1>
+<p className="para_items">Coaster are made up of white marble and mango wood with your choice of text and monogram engraving. see shop policies and ping for more information
 </p>
 
         <div className="container-fluid nav-bg">
@@ -45,8 +45,9 @@ const Kitchen = () => {
         <div className="kitchen_ware">
 
         <div className="cards_kitchenware">
-<h1>Choping boards</h1>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, libero. Ducimus consequuntur, consequatur possimus eum architecto quis, expedita et minima at a eligendi facilis! Laborum cupiditate ratione omnis laboriosam consequatur.
+<h1 className="heading_items">Choping boards</h1>
+<p className="para_items">
+    Marble choping boards these gorgeous marble boards are handicraft by our craftman each peice varies in colours due to the natural formation of marble these marble boards are great for serving cheese and cracker in style as with all hand made items slight size and colours variations may occur any imperfection is a part of artisanal appeal and should be embraced marble 20 x 33 cms approx.
 </p>
 
         <div className="container-fluid nav-bg">
@@ -74,15 +75,16 @@ const Kitchen = () => {
         <div className="kitchen_ware">
 
         <div className="cards_kitchenware">
-<h1>paestels</h1>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, libero. Ducimus consequuntur, consequatur possimus eum architecto quis, expedita et minima at a eligendi facilis! Laborum cupiditate ratione omnis laboriosam consequatur.
+<h1 className="heading_items">paestels</h1>
+<p className="para_items">
+    Get your Kitchen's a traditional look with mordern touch with Art & Craft's Paestels these paestels are specialy design for home usage purpose and gives your kitchen a traditional look.
 </p>
 
         <div className="container-fluid nav-bg">
                 <div className="row">
                     <div className="col-12 mx-auto">
                         
-                        <div className="row row-cols-1 row-cols-md-3 g-4">
+                        <div className="row row-cols-1 row-cols-md-3 g-4"> 
                             {
                                 data3.map((val, ind) => {
                                     return <KitchenCard
@@ -103,8 +105,9 @@ const Kitchen = () => {
         <div className="kitchen_ware">
 
         <div className="cards_kitchenware">
-<h1>serving Trays</h1>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, libero. Ducimus consequuntur, consequatur possimus eum architecto quis, expedita et minima at a eligendi facilis! Laborum cupiditate ratione omnis laboriosam consequatur.
+<h1 className="heading_items">serving Trays</h1>
+<p className="para_items">
+    Shop art & Craft for decoratives boxes and trays and keep cherised pre possessions organised find decor trays and coffee table trays for stylish storage.
 </p>
 
         <div className="container-fluid nav-bg">
@@ -132,8 +135,9 @@ const Kitchen = () => {
         <div className="kitchen_ware">
 
         <div className="cards_kitchenware">
-<h1>Wine holders</h1>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, libero. Ducimus consequuntur, consequatur possimus eum architecto quis, expedita et minima at a eligendi facilis! Laborum cupiditate ratione omnis laboriosam consequatur.
+<h1 className="heading_items">Wine holders</h1>
+<p className="para_items">
+Hang it up , tuek it away or keep it on display- mordern storage options provides a home for everything you own shop mordern stielves and console online.
 </p>
 
         <div className="container-fluid nav-bg">
@@ -161,8 +165,9 @@ const Kitchen = () => {
         <div className="kitchen_ware">
 
         <div className="cards_kitchenware">
-<h1> Cake stands</h1>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, libero. Ducimus consequuntur, consequatur possimus eum architecto quis, expedita et minima at a eligendi facilis! Laborum cupiditate ratione omnis laboriosam consequatur.
+<h1 className="heading_items"> Cake stands</h1>
+<p className="para_items">
+    Embrace your Presentation of your delicious Cakes with Art & Craft's marble cake stands these beautiful and elegant cake stand make your cake more presentable and delicious .
 </p>
 
         <div className="container-fluid nav-bg">
