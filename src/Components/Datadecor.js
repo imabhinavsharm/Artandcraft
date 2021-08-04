@@ -48,6 +48,16 @@ import img41 from '../images/IMG-6280.JPG'
 import img42 from '../images/IMG-6283.JPG'
 
 
+import img43 from '../images/IMG-5927.JPG'
+import img44 from '../images/IMG-5928.JPG'
+import img45 from '../images/IMG-5934.JPG'
+import img46 from '../images/IMG-5935.JPG'
+import img47 from '../images/IMG-5936.JPG'
+import img48 from '../images/IMG-5937.JPG'
+import img49 from '../images/IMG-5939.JPG'
+import img50 from '../images/IMG-6364.JPG'
+import img51 from '../images/IMG-6366.JPG'
+
 const candle = [
     {
         imgsrc: img1,
@@ -193,5 +203,35 @@ const books = [
         imgsrc: img42,
     },
 ]
+const dining =[
+    {
+        imgsrc: img43,
+    },
+    {
+        imgsrc: img44,
+    },
+    {
+        imgsrc: img45,
+    },
+    {
+        imgsrc: img46,
+    },
+    {
+        imgsrc: img47,
+    },
+    {
+        imgsrc: img48,
+    },
+    {
+        imgsrc: img49,
+    },
+    {
+        imgsrc: img50,
+    },
+    {
+        imgsrc: img51,
+    },
+    
+]
 export default candle
-export {frames,table,pendant,mirror,books};
+export {frames,table,pendant,mirror,books , dining};
