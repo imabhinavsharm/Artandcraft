@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Artandcraft/static/css/main.c1c3385f.chunk.css",
-    "main.js": "/Artandcraft/static/js/main.71ab2de4.chunk.js",
-    "main.js.map": "/Artandcraft/static/js/main.71ab2de4.chunk.js.map",
+    "main.css": "/Artandcraft/static/css/main.6a49070e.chunk.css",
+    "main.js": "/Artandcraft/static/js/main.1ceaef6b.chunk.js",
+    "main.js.map": "/Artandcraft/static/js/main.1ceaef6b.chunk.js.map",
     "runtime-main.js": "/Artandcraft/static/js/runtime-main.b0216f7d.js",
     "runtime-main.js.map": "/Artandcraft/static/js/runtime-main.b0216f7d.js.map",
     "static/js/2.acbc2ca1.chunk.js": "/Artandcraft/static/js/2.acbc2ca1.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.c2d2b59e.chunk.js": "/Artandcraft/static/js/3.c2d2b59e.chunk.js",
     "static/js/3.c2d2b59e.chunk.js.map": "/Artandcraft/static/js/3.c2d2b59e.chunk.js.map",
     "index.html": "/Artandcraft/index.html",
-    "static/css/main.c1c3385f.chunk.css.map": "/Artandcraft/static/css/main.c1c3385f.chunk.css.map",
+    "static/css/main.6a49070e.chunk.css.map": "/Artandcraft/static/css/main.6a49070e.chunk.css.map",
     "static/js/2.acbc2ca1.chunk.js.LICENSE.txt": "/Artandcraft/static/js/2.acbc2ca1.chunk.js.LICENSE.txt",
     "static/media/IMG-5686.d3e9b19e.jpg": "/Artandcraft/static/media/IMG-5686.d3e9b19e.jpg",
     "static/media/IMG-5687.87e61642.JPG": "/Artandcraft/static/media/IMG-5687.87e61642.JPG",
@@ -50,8 +50,15 @@
     "static/media/IMG-5917.c5bd4767.JPG": "/Artandcraft/static/media/IMG-5917.c5bd4767.JPG",
     "static/media/IMG-5922.06a1b04f.JPG": "/Artandcraft/static/media/IMG-5922.06a1b04f.JPG",
     "static/media/IMG-5923.ba5f0c10.JPG": "/Artandcraft/static/media/IMG-5923.ba5f0c10.JPG",
+    "static/media/IMG-5927.a63c8555.JPG": "/Artandcraft/static/media/IMG-5927.a63c8555.JPG",
+    "static/media/IMG-5928.90075542.JPG": "/Artandcraft/static/media/IMG-5928.90075542.JPG",
     "static/media/IMG-5932.afab88cb.JPG": "/Artandcraft/static/media/IMG-5932.afab88cb.JPG",
     "static/media/IMG-5933.ba5f0c10.JPG": "/Artandcraft/static/media/IMG-5933.ba5f0c10.JPG",
+    "static/media/IMG-5934.eb2ce503.JPG": "/Artandcraft/static/media/IMG-5934.eb2ce503.JPG",
+    "static/media/IMG-5935.b688c64e.JPG": "/Artandcraft/static/media/IMG-5935.b688c64e.JPG",
+    "static/media/IMG-5936.9ac5e2fa.JPG": "/Artandcraft/static/media/IMG-5936.9ac5e2fa.JPG",
+    "static/media/IMG-5937.b77ca6bb.JPG": "/Artandcraft/static/media/IMG-5937.b77ca6bb.JPG",
+    "static/media/IMG-5939.1043ad57.JPG": "/Artandcraft/static/media/IMG-5939.1043ad57.JPG",
     "static/media/IMG-5940.491acbe5.PNG": "/Artandcraft/static/media/IMG-5940.491acbe5.PNG",
     "static/media/IMG-5941.ca96019d.JPG": "/Artandcraft/static/media/IMG-5941.ca96019d.JPG",
     "static/media/IMG-5942.6bc1977a.JPG": "/Artandcraft/static/media/IMG-5942.6bc1977a.JPG",
@@ -119,6 +126,8 @@
     "static/media/IMG-6278.ceba8e62.JPG": "/Artandcraft/static/media/IMG-6278.ceba8e62.JPG",
     "static/media/IMG-6280.264e9504.JPG": "/Artandcraft/static/media/IMG-6280.264e9504.JPG",
     "static/media/IMG-6283.f727dc37.JPG": "/Artandcraft/static/media/IMG-6283.f727dc37.JPG",
+    "static/media/IMG-6364.00364ae1.JPG": "/Artandcraft/static/media/IMG-6364.00364ae1.JPG",
+    "static/media/IMG-6366.2c7e3993.JPG": "/Artandcraft/static/media/IMG-6366.2c7e3993.JPG",
     "static/media/kitchen.css": "/Artandcraft/static/media/kitchen-1940175_1920.6711109a.jpg",
     "static/media/contact.css": "/Artandcraft/static/media/meeting-1020145_1920.e5f2cc7c.jpg",
     "static/media/logo-1.9bdfa2a4.jpg": "/Artandcraft/static/media/logo-1.9bdfa2a4.jpg",
@@ -133,7 +142,7 @@
   "entrypoints": [
     "static/js/runtime-main.b0216f7d.js",
     "static/js/2.acbc2ca1.chunk.js",
-    "static/css/main.c1c3385f.chunk.css",
-    "static/js/main.71ab2de4.chunk.js"
+    "static/css/main.6a49070e.chunk.css",
+    "static/js/main.1ceaef6b.chunk.js"
   ]
 }
