@@ -62,7 +62,7 @@ setcompany("")
      value={email}
      onChange={(e) => setemail(e.target.value)}
     />
-    <div id="emailHelp" className="form-text">We'll never share your email with anyone else.</div>
+    <div id="emailHelp" className="form-text" style={{color:"#42d113"}}>We'll never share your email with anyone else.</div>
   </div>
   <div className="mb-3">
     <label htmlFor="exampleInputEmail1" className="form-label">Company</label>
@@ -85,19 +85,19 @@ setcompany("")
            <h2 className="headingcontact">Office </h2>
            <div className="part2_content">
              <h4>Address</h4>
-             <p>JS Hospitality Services Pvt. <br/>
-F-45, South City-1, Behind Unitech Business Park, <br/>
-Gurugram-122001, Haryana, INDIA <br/>
- + 91-124-4830400  Timing(Monday to Saturday)</p>
+             <p>ART & CRAFT . <br/>
+3/140 A, Rui ki Mandi,Shahganj, <br/>
+AGRA-282010, UTTARPRADESH, INDIA <br/>
+ + 91-8171975050  Timing(Monday to Saturday)</p>
            </div>
            <div className="part2_content">
              <h4>Feedback</h4>
-           <p>+91-8527990104 <br/>
+           <p>+91-8171975050 <br/>
  feedback@pindballuchi.com</p>
            </div>
            <div className="part2_content">
              <h4>Career Opportunities</h4>
- <p>+91-8527990101<br/>
+ <p>+91-8171975050<br/>
  hr@jshospitality.in</p>
          
            </div>

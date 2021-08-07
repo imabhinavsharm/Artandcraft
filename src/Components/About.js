@@ -65,7 +65,7 @@ const About = () => {
                     <div className="kitchenware_main">
                     <div className="bathroom_main_left">
                         <div className="leftcontent">
-                            <h1>hello</h1>
+                            <h1>Soap Dispensers</h1>
                             <p style={{fontSize:"20px"}}>
                             This marble interior is bathroom goals!. from Soap dishes to bathroom sets Art & Craft gives your bathroom a new luxurious look with their product these beautiful products are made up of marbles like granite with diffrent colors and textures .
                             </p>

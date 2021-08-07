@@ -1,6 +1,6 @@
 import React from 'react'
 import '../Nav.css';
-import web5 from '../images/logo-1.jpg';
+import web5 from '../images/logo-1.png';
 import { Link}from "react-router-dom";
 export const Footer = () => {
     return (
